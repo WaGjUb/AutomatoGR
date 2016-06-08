@@ -1,8 +1,11 @@
 a d
 A S D
 S
-S AD
 D dD
-D d
+D ad
 A aA
 A a
+D d
+D epsilon
+A epsilon
+S AD
